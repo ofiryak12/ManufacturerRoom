@@ -9,4 +9,5 @@ Once created, a product will have a set of attributes. This attributes will be f
 Technology
 ----------------
 Python with Django - Backend
+
 JSX React - Frontend
